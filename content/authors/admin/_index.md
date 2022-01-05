@@ -63,7 +63,7 @@ email: "aravindskumar1998@gmail.com"
 highlight_name: true
 ---
 
-I’m an experienced developer with a demonstrated history of working in Machine Learning / Data Science, currently a master's student at Johns Hopkins University in the Perception & Cognition Stream of Robotics. 
+I’m an experienced developer with a demonstrated history of working in Machine Learning & Data Science, currently a master's student at Johns Hopkins University in the Perception & Cognition Stream of Robotics. 
 
 I have a bachelor’s from IIT Madras, where my coursework focused on designing, modelling, and optimizing complex systems including convex optimization, inverse numerical methods and practical machine learning. My affinity towards applying these concepts led me to actively pursue several ventures, including hackathons, research projects, and internships. I have worked across domains ranging from healthcare and supply chain to automotive engineering. 
 
