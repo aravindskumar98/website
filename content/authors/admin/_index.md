@@ -6,7 +6,7 @@ title: Aravind S Kumar
 superuser: true
 
 # Role/position/tagline
-role: Engineer | Researcher | Data-Scientist | Roboticist
+role: Engineer | Data-Scientist | Roboticist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/aravindskumar1998@gmail.com'
+  link: 'mailto:aravindskumar1998@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/aravindskumar98
