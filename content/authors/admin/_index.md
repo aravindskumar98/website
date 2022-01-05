@@ -52,9 +52,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-#- icon: cv
-#  icon_pack: fas
-#  link: `static/uploads/resume.pdf`
+- icon: cv
+  icon_pack: fas
+  link: https://drive.google.com/file/d/1F8XG82HWQTvfJDYKYmkKCQWXfFLF5wZS/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "aravindskumar1998@gmail.com"
