@@ -6,7 +6,7 @@ title: Aravind S Kumar
 superuser: true
 
 # Role/position/tagline
-role: Master's Student
+role: Engineer | Researcher | Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
