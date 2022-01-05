@@ -20,6 +20,22 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: Expert
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Expert
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Expert
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Expert
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
