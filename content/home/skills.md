@@ -16,34 +16,34 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: Advanced
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Intermediate
+  icon: database
+  icon_pack: fab
+  name: SQL
+- description: Intermediate
+  icon: python
+  icon_pack: fab
+  name: C++
+- description: Intermediate
+  icon: python
+  icon_pack: fab
+  name: MATLAB
 - description: Expert
   icon: python
   icon_pack: fab
   name: Python
-- description: Expert
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: Expert
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: Expert
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: Expert
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: 100%
+- description: Advanced
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+- description: Advanced
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
