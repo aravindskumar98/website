@@ -12,6 +12,8 @@ role: Engineer | Data-Scientist | Roboticist
 organizations:
 - name: Johns Hopkins University
   url: https://engineering.jhu.edu/
+- name: IIT Madras
+  url: https://engineering.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m an experienced programmer with a demonstrated history of working in Data Science, currently a master's student at Johns Hopkins University in the Perception & Cognition Stream of Robotics. 
