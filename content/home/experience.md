@@ -31,19 +31,18 @@ experience:
         * Set-up CICD for DevOps pipelines, optimized API data extraction scripts and achieved E2E Automation
         * Migrated existing codebase to run in PySpark using Databricks; reducing runtime by 70%, saving USD 100,000
         
-  - title: Data Scientist
-    company: AB InBev
+  - title: Summer Intern
+    company: Toyota
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
     location: Bangalore, India
-    date_start: '2020-08-03'
-    date_end: '2020-08-16'
+    date_start: '2018-06-03'
+    date_end: '2018-07-16'
     description: |2-
-        Improved BrewRight, ABI’s legal analytics platform for detecting fraudulent transactions for financial compliance
+        Worked on predicting the work in progress (WIP) stock of the assembly shop. 
         
-        * Developed machine learning models and implemented hypotheses to flag anomalous and risky transactions
-        * Set-up CICD for DevOps pipelines, optimized API data extraction scripts and achieved E2E Automation
-        * Migrated existing codebase to run in PySpark using Databricks; reducing runtime by 70%, saving USD 100,000
+        * Optimized the process by making it data driven and helped reduce the WIP stock by 9%
+        * Reduced monthly production shift planning time by 80%
 
   - title: Data Scientist
     company: AB InBev
@@ -59,13 +58,13 @@ experience:
         * Set-up CICD for DevOps pipelines, optimized API data extraction scripts and achieved E2E Automation
         * Migrated existing codebase to run in PySpark using Databricks; reducing runtime by 70%, saving USD 100,000
 
-  - title: Data Scientist
-    company: AB InBev
+  - title: Summer Intern
+    company: Toyota
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
     location: Bangalore, India
-    date_start: '2020-08-03'
-    date_end: '2020-08-16'
+    date_start: '2018-06-03'
+    date_end: '2020-07-03'
     description: |2-
         Improved BrewRight, ABI’s legal analytics platform for detecting fraudulent transactions for financial compliance
         
