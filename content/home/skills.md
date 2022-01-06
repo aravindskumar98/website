@@ -44,10 +44,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Machine Learning
- - description: Intermediate
-  icon: stack-overflow
-  icon_pack: fas
-  name: Algorithms
+
 
 
 # Uncomment to use emoji icons.
