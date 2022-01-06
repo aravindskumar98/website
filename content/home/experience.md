@@ -30,6 +30,19 @@ experience:
         * Developed machine learning models and implemented hypotheses to flag anomalous and risky transactions
         * Set-up CICD for DevOps pipelines, optimized API data extraction scripts and achieved E2E Automation
         * Migrated existing codebase to run in PySpark using Databricks; reducing runtime by 70%, saving USD 100,000
+
+  - title: Project Associate  
+    company: Inspire Lab, IIT Madras
+    company_url: 'https://www.ab-inbev.com/'
+    company_logo: org-gc
+    location: Chennai, India
+    date_start: '2021-05-03'
+    date_end: '2021-09-16'
+    description: |2-
+        NDA Robot Design
+        
+        * Responsible for the design of a low-cost, modular surgical system to guide invasive surgical operations.
+        * Designed to facilitate 360 degree access to the needle guide during surgical operations; Controlled through servo motors.
         
   - title: Summer Intern
     company: Toyota
@@ -62,7 +75,7 @@ experience:
     company: Astrazeneca-IITM Hackathon
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
-    location: Bangalore, India
+    location: Chennai, India
     date_start: '2020-01-03'
     date_end: '2020-01-03'
     description: |2-
@@ -104,7 +117,7 @@ experience:
     company: Confederation of Indian Industries - Hackathon
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
-    location: Bangalore, India
+    location: Chennai, India
     date_start: '2019-01-03'
     date_end: '2019-01-16'
     description: |2-
@@ -131,7 +144,7 @@ experience:
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
-    location: Bangalore, India
+    location: Chennai, India
     date_start: '2018-07-03'
     date_end: '2018-11-16'
     description: 
