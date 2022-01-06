@@ -34,7 +34,7 @@ experience:
   - title: Project Associate  
     company: Inspire Lab, IIT Madras
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2021-05-03'
     date_end: '2021-09-16'
@@ -47,7 +47,7 @@ experience:
   - title: Summer Intern
     company: Toyota
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Bangalore, India
     date_start: '2018-06-03'
     date_end: '2018-07-16'
@@ -60,7 +60,7 @@ experience:
   - title: Research - Non-contact vibration analysis through video
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-10-03'
     date_end: '2020-06-16'
@@ -74,7 +74,7 @@ experience:
   - title: Pneumonia Detection in X-Rays
     company: Astrazeneca-IITM Hackathon
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2020-01-03'
     date_end: '2020-01-03'
@@ -88,7 +88,7 @@ experience:
   - title: Research - Monsoon Rainfall Prediction
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-07-03'
     date_end: '2019-11-16'
@@ -102,7 +102,7 @@ experience:
   - title: Project - Quality Prediction in Iron Ore Mining
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-01-03'
     date_end: '2019-05-16'
@@ -116,7 +116,7 @@ experience:
   - title: Livestock Management Using Unique IDs
     company: Confederation of Indian Industries - Hackathon
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-01-03'
     date_end: '2019-01-16'
@@ -130,7 +130,7 @@ experience:
   - title: Moodle Crawler for Offline Back-ups
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-05-03'
     date_end: '2019-07-16'
@@ -143,7 +143,7 @@ experience:
   - title: Self-Balancing Bicycle Model
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Chennai, India
     date_start: '2018-07-03'
     date_end: '2018-11-16'
