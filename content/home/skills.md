@@ -22,28 +22,36 @@ feature:
   name: Python
 - description: Intermediate
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: SQL
 - description: Intermediate
-  icon: python
-  icon_pack: fab
+  icon: code
+  icon_pack: fas
   name: C++
 - description: Intermediate
-  icon: python
+  icon: superscript
   icon_pack: fab
   name: MATLAB
 - description: Expert
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: Advanced
   icon: chart-line
   icon_pack: fas
   name: Statistics
 - description: Advanced
-  icon: camera-retro
+  icon: less-than-equal
+  icon_pack: fas
+  name: Algebra
+- description: Advanced
+  icon: laptop-code
   icon_pack: fas
   name: Machine Learning
+ - description: Intermediate
+  icon: stack-overflow
+  icon_pack: fas
+  name: Algorithms
+ - description: Intermediate
+  icon: robot
+  icon_pack: fas
+  name: Path Planning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -55,8 +63,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-- icon: "matlab"
+<!--  icon: "matlab"
   icon_pack: "custom"
   name: "Surfing"
-  description: "90%"
+  description: "90%" -->
 ---
