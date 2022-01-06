@@ -32,6 +32,7 @@ experience:
     description: |2-
     
     Improved BrewRight, ABI’s legal analytics platform for detecting fraudulent transactions for financial compliance
+    
       * Developed machine learning models and implemented hypotheses to flag anomalous and risky transactions
       * Set-up CICD for DevOps pipelines, optimized API data extraction scripts and achieved E2E Automation
       * Migrated existing codebase to run in PySpark using Databricks; reducing runtime by 70%, saving USD 100,000
