@@ -44,10 +44,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Machine Learning
- - description: Intermediate
-  icon: stack-overflow
-  icon_pack: fab
-  name: Algorithms
+
 - description: Intermediate
   icon: robot
   icon_pack: fas
