@@ -32,14 +32,22 @@ feature:
   icon: superscript
   icon_pack: fas
   name: MATLAB
-- description: Expert
+- description: Intermediate
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: Advanced
+- description: Intermediate
   icon: less-than-equal
   icon_pack: fas
   name: Algebra
+- description: Advanced
+  icon: laptop-code
+  icon_pack: fas
+  name: Machine Learning
+ - description: Intermediate
+  icon: stack-overflow
+  icon_pack: fas
+  name: Algorithms
 
 
 # Uncomment to use emoji icons.
