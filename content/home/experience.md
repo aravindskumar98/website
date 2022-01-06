@@ -29,7 +29,7 @@ experience:
     location: Bangalore, India
     date_start: '2020-08-03'
     date_end: '2021-08-16'
-    description: |2-
+    description: 
     
     Improved BrewRight, ABI’s legal analytics platform for detecting fraudulent transactions for financial compliance
     
