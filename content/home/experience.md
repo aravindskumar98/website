@@ -20,7 +20,7 @@ experience:
   - title: Data Scientist
     company: AB InBev
     company_url: 'https://www.ab-inbev.com/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Bangalore, India
     date_start: '2020-08-03'
     date_end: '2020-08-16'
