@@ -28,30 +28,7 @@ feature:
   icon: code
   icon_pack: fas
   name: C++
-- description: Intermediate
-  icon: superscript
-  icon_pack: fas
-  name: MATLAB
-- description: Expert
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: Advanced
-  icon: less-than-equal
-  icon_pack: fas
-  name: Algebra
-- description: Advanced
-  icon: laptop-code
-  icon_pack: fas
-  name: Machine Learning
- - description: Intermediate
-  icon: stack-overflow
-  icon_pack: fas
-  name: Algorithms
- - description: Intermediate
-  icon: robot
-  icon_pack: fas
-  name: Path Planning
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
