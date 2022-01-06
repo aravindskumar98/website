@@ -30,7 +30,7 @@ feature:
   name: C++
 - description: Intermediate
   icon: superscript
-  icon_pack: fab
+  icon_pack: fas
   name: MATLAB
 - description: Expert
   icon: chart-line
