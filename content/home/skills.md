@@ -28,6 +28,18 @@ feature:
   icon: code
   icon_pack: fas
   name: C++
+- description: Intermediate
+  icon: superscript
+  icon_pack: fas
+  name: MATLAB
+- description: Expert
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description: Advanced
+  icon: less-than-equal
+  icon_pack: fas
+  name: Algebra
 
 
 # Uncomment to use emoji icons.
