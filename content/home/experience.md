@@ -44,7 +44,7 @@ experience:
         * Optimized the process by making it data driven and helped reduce the WIP stock by 9%
         * Reduced monthly production shift planning time by 80%
 
-  - title: Research: Non-contact vibration analysis through video
+  - title: Research - Non-contact vibration analysis through video
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
