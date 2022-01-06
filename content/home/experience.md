@@ -71,7 +71,7 @@ experience:
         * Achieved an IoU of 46.97% and MAP value of 35.44%.
 
 
-  - title: Research: Monsoon Rainfall Prediction
+  - title: Research - Monsoon Rainfall Prediction
     company: IIT Madras
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
