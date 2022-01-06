@@ -31,7 +31,7 @@ experience:
         * Set-up CICD for DevOps pipelines, optimized API data extraction scripts and achieved E2E Automation
         * Migrated existing codebase to run in PySpark using Databricks; reducing runtime by 70%, saving USD 100,000
         
-     - title: Data Scientist
+  - title: Data Scientist
     company: AB InBev
     company_url: 'https://www.ab-inbev.com/'
     company_logo: org-gc
