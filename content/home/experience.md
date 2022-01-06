@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle: Professional
+subtitle: 
 
 # Date format for experience
 date_format: Jan 2006
@@ -44,18 +44,6 @@ experience:
         * Responsible for the design of a low-cost, modular surgical system to guide invasive surgical operations.
         * Designed to facilitate 360 degree access to the needle guide during surgical operations; Controlled through servo motors.
         
-  - title: Summer Intern
-    company: Toyota
-    company_url: 'https://www.ab-inbev.com/'
-    # company_logo: org-gc
-    location: Bangalore, India
-    date_start: '2018-06-03'
-    date_end: '2018-07-16'
-    description: |2-
-        Worked on predicting the work in progress (WIP) stock of the assembly shop. 
-        
-        * Optimized the process by making it data driven and helped reduce the WIP stock by 9%
-        * Reduced monthly production shift planning time by 80%
 
   - title: Research - Non-contact vibration analysis through video
     company: IIT Madras
@@ -139,6 +127,19 @@ experience:
         
         * Created a web crawler using selenium & bs4 for maintaining offline copy of course documents from Moodle.
         * Wrote a daemon to refresh the offline version daily; File system updated to match changes in course structure
+
+  - title: Summer Intern
+    company: Toyota
+    company_url: 'https://www.ab-inbev.com/'
+    # company_logo: org-gc
+    location: Bangalore, India
+    date_start: '2018-06-03'
+    date_end: '2018-07-16'
+    description: |2-
+        Worked on predicting the work in progress (WIP) stock of the assembly shop. 
+        
+        * Optimized the process by making it data driven and helped reduce the WIP stock by 9%
+        * Reduced monthly production shift planning time by 80%
 
   - title: Self-Balancing Bicycle Model
     company: IIT Madras
