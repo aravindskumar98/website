@@ -21,7 +21,7 @@ experience:
 
   - title: Non-contact vibration analysis through video
     company: IIT Madras
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://www.iitm.ac.in/'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-10-03'
@@ -35,7 +35,7 @@ experience:
 
   - title: Pneumonia Detection in X-Rays
     company: Astrazeneca-IITM Hackathon
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://dare2compete.com/hackathon/astrazeneca-ai-challenge-shaastra-iit-madras-indian-institute-of-technology-iit-madras-95281'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2020-01-03'
@@ -49,7 +49,7 @@ experience:
 
   - title: Monsoon Rainfall Prediction
     company: IIT Madras
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://www.iitm.ac.in/'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-07-03'
@@ -63,7 +63,7 @@ experience:
 
   - title: Quality Prediction in Iron Ore Mining
     company: IIT Madras
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://www.iitm.ac.in/'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-01-03'
@@ -77,7 +77,7 @@ experience:
 
   - title: Livestock Management Using Unique IDs
     company: Confederation of Indian Industries - Hackathon
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://www.cii.in/'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-01-03'
@@ -91,7 +91,7 @@ experience:
 
   - title: Moodle Crawler for Offline Back-ups
     company: IIT Madras
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://www.iitm.ac.in/'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2019-05-03'
@@ -105,7 +105,7 @@ experience:
 
   - title: Self-Balancing Bicycle Model
     company: IIT Madras
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://www.iitm.ac.in/'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2018-07-03'
