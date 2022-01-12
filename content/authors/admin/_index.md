@@ -13,7 +13,7 @@ organizations:
 - name: Johns Hopkins University
   url: https://engineering.jhu.edu/
 - name: IIT Madras
-  url: https://engineering.jhu.edu/
+  url: https://www.iitm.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m an experienced programmer with a demonstrated history of working in Data Science, currently a master's student at Johns Hopkins University in the Perception & Cognition Stream of Robotics. 
@@ -49,7 +49,7 @@ social:
   link: https://github.com/aravindskumar98
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/aravind-skumar
+  link: https://www.linkedin.com/in/aravind-skumar/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
