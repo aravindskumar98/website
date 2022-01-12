@@ -33,7 +33,7 @@ experience:
 
   - title: Project Associate  
     company: Inspire Lab, IIT Madras
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://niravatgit.github.io/INSPIRELab/'
     # company_logo: org-gc
     location: Chennai, India
     date_start: '2021-05-03'
@@ -46,7 +46,7 @@ experience:
 
   - title: R&D Division Intern
     company: Wipro Consumer Care
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://wiproconsumercare.com/'
     # company_logo: org-gc
     location: Hyderabad, India
     date_start: '2019-06-03'
@@ -60,7 +60,7 @@ experience:
         
   - title: Summer Intern
     company: Toyota
-    company_url: 'https://www.ab-inbev.com/'
+    company_url: 'https://www.toyotabharat.com/'
     # company_logo: org-gc
     location: Bangalore, India
     date_start: '2018-06-03'
